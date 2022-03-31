@@ -6,8 +6,7 @@
   <br/>
   
 
-  
-  # First Vite App.
+   # First Vite App.
 
 We recommend to look at the [documentation](https://vitejs.dev/).
 
